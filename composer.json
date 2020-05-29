@@ -1,0 +1,20 @@
+{
+    "name": "murcilh/html",
+    "description": "connexioDB",
+    "type": "project",
+    "license": "GNU3",
+    "authors": [
+        {
+            "name": "Murci",
+            "email": "murcilh@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "kreait/firebase-php": "^5.0",
+	"php": ">=7.2.0",
+	"google/cloud-vision": "^1.0",
+	"google/cloud-speech": "dev-master"
+    }
+     
+}
